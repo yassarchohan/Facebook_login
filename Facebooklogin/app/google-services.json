@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "571950155233",
+    "firebase_url": "https://authwithfb-1cde7.firebaseio.com",
+    "project_id": "authwithfb-1cde7",
+    "storage_bucket": "authwithfb-1cde7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571950155233:android:3a1e811bb002e478",
+        "android_client_info": {
+          "package_name": "com.example.yassarchohan.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571950155233-duq1nvong6on4hu7j0ndtg5472j7l47b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
